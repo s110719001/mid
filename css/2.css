@@ -1,0 +1,359 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    margin:0 auto;
+}
+body{
+    margin: 0 auto;
+    height:1900px;
+}
+.body{
+   position: relative;
+    height:7290px;
+    
+}
+.header{
+    position:fixed;
+    display:flex;
+    top:0px;
+    z-index:-1;
+    
+}
+.logopic{
+    width:276px;
+    height:144px;
+    margin:28px 1621px 2356px 23px;
+    padding:0;
+    z-index:2;
+    
+}
+.logopic img{
+    margin:0px;
+}
+.list{
+    
+   margin:76px 1462px 2387px 367px;
+   width:1284px;
+    height:185px;
+    padding:0% 0% 0% 0%;
+    position:fixed;
+    top:0px;
+    z-index:5;
+    
+}
+.list ol{
+   
+    display: flex;
+  list-style-type: none;
+ padding:0;
+ margin:0;
+ font-family: Sitka Subheading;
+ height:35px;
+    
+}
+.icon{
+    width:40px;
+    height:40px;
+    margin-left:71.5px;
+}
+#shoppingbag {
+    margin-left:0px;
+    
+}
+#shopping a:hover>img{
+    transform:scale(1.1);
+}
+.logoline{
+    border:1px;
+    position:fixed;
+        width:2px;
+        height:185px;
+        background-color: #707070;
+        margin:0;
+        top:0.5px;
+        left:329.5px;
+        right:1590.5px;
+        bottom:2132.5px;
+        
+    }
+    .logoline2{
+        border:1px;
+        
+            width:2px;
+            height:185px;
+            background-color: #707070;
+            margin:-5.88% 0px 0px 15.5px;
+            
+            
+        }
+.line{
+border:1px;
+    
+    width:2px;
+    height:39px;
+    background-color: #707070;
+    margin:0 15.5px 0 15.5px;
+    
+}
+
+.nike a{
+    color:rgb(0, 0, 0);
+    width:91px;
+    text-decoration: none;
+}
+.nike a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.adidas a{
+    color:rgb(0, 0, 0);
+    width:137px;
+    text-decoration: none;
+}
+.adidas a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.puma a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    width:105px;
+}
+.puma a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.newbalance a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+width:264px;
+}
+.newbalance a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);;
+}
+.reebok a{
+width:147px;
+color:rgb(0, 0, 0);
+text-decoration: none;
+}
+.reebok a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+#l{
+   font-size:35px;
+   font-weight: bold;
+   color:#444444;
+   line-height: 51px;
+   letter-spacing: 50;
+   font-weight: bold;
+}
+.seperationline{
+    width:100%;
+    height:1px;
+    background-color: #D8D7D7;
+    margin-top:185px;
+}
+.box2-1{
+    margin:42px 0 0 260px;
+}
+.shoppingcar{
+    font-size:45px;
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+    color:#444444;
+    letter-spacing: 5px;
+}
+.shoppingcontent{
+    font-size:25px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+    margin-top:6px;
+}
+.caculator{
+    width:329px;
+    height:344px;
+    background-color:black;
+    margin:55px 0 0 500px;
+}
+.item{
+    width:65px;
+    height:31px;
+    font-size:23px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+    color:white;
+    padding:13px 0 0 10px;
+ 
+    
+}
+.caline{
+    width:1px;
+    height:53px;
+    background-color: #707070;
+    margin:-44px 0 0 247.5px;
+}
+.cost{
+    font-size:23px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+    color:white;
+    margin:-11.95% 0 0 263px;
+}
+#caline{
+   margin-top:3%
+  
+}
+.noitem{
+    font-size:18px;
+    font-family:Microsoft JhengHei;
+    color:white;
+    margin:9.5px 0 0 13px;
+}
+#caline1{
+    margin-top:65%
+   
+ }
+.total{
+    font-size:23px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+    color:white;
+    margin:4px 0 0 13px;
+}
+.zero{
+    font-size:23px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+    color:white;
+    margin:-9.5% 0 0 85% ;
+}
+.favorite{
+    font-size:45px;
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+    color:#444444;
+    letter-spacing: 5px;
+}
+.favoritecontent{
+    font-size:25px;
+    font-family:Microsoft JhengHei;
+    letter-spacing: 5px;
+}
+.seperationline2{
+    width: 1300px;
+    height:1px;
+    background-color: #707070;
+    margin:134.5px 0 0 -12%;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .slider {
+      width: 20%;
+      margin: 100px auto;
+  }
+
+  .slick-slide {
+    margin: 0px 10px;
+    
+  }
+
+  .slick-slide img {
+    width: 100%;
+  }
+
+  .slick-prev:before,
+  .slick-next:before {
+    color: black;
+  }
+
+
+  .slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .2;
+  }
+  
+  .slick-active {
+    opacity: 1;
+  }
+
+  .slick-current {
+    opacity: 1;
+  }
+  .slickpic{
+      width:250px;
+      height:250px;
+      
+  }
+  .itemslick{
+      width:90%;
+      margin:100px 0 0 100px;
+  }
+ .itemsslick1{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:135px;
+
+ }
+ 
+ .itemsslick2{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:160px;
+    
+ }
+ .itemsslick3{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:160px;
+    
+ }
+ .itemsslick4{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:160px;
+ }
+ .itemsslick5{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:150px;
+    margin-top:30px;
+ }
+ .itemsslick6{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:150px;
+ }
+ .itemsslick7{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:120px;
+ }
+ .itemsslick8{
+    font-size:20px;
+    color:#707070;
+    font-family:Segoe UI;
+    margin-left:145px;
+ }
+.lowerpic{
+    margin:-30px 0 0 0 ;
+}
+.maybeintrest{
+    font-size:20px;
+    font-family:Segoe UI;
+    color:#707070;
+    letter-spacing: 5px;
+}

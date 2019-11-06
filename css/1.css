@@ -1,0 +1,810 @@
+html{
+    margin:0 auto;
+}
+body{
+    margin: 0 auto;
+}
+.body{
+   position: relative;
+    height:7290px;
+    
+}
+.header{
+    position:fixed;
+    display:flex;
+    top:0px;
+    z-index:-1;
+    
+}
+.logopic{
+    width:276px;
+    height:144px;
+    margin:28px 1621px 2356px 23px;
+    padding:0;
+    z-index:2;
+    
+}
+.logopic img{
+    margin:0px;
+}
+.list{
+    
+   margin:76px 1462px 2387px 367px;
+   width:1284px;
+    height:185px;
+    padding:0% 0% 0% 0%;
+    position:fixed;
+    top:0px;
+    z-index:1;
+    
+}
+.list ol{
+   
+    display: flex;
+  list-style-type: none;
+ padding:0;
+ margin:0;
+ font-family: Sitka Subheading;
+ height:35px;
+    
+}
+.icon{
+    width:40px;
+    height:40px;
+    margin-left:71.5px;
+}
+#shoppingbag {
+    margin-left:0px;
+    
+}
+#shopping a:hover>img{
+    transform:scale(1.1);
+}
+.logoline{
+    border:1px;
+    position:fixed;
+        width:2px;
+        height:185px;
+        background-color: #707070;
+        margin:0;
+        top:0.5px;
+        left:329.5px;
+        right:1590.5px;
+        bottom:2132.5px;
+        
+    }
+    .logoline2{
+        border:1px;
+        
+            width:2px;
+            height:185px;
+            background-color: #707070;
+            margin:-5.88% 0px 0px 15.5px;
+            
+            
+        }
+.line{
+border:1px;
+    
+    width:2px;
+    height:39px;
+    background-color: #707070;
+    margin:0 15.5px 0 15.5px;
+    
+}
+
+.nike a{
+    color:rgb(0, 0, 0);
+    width:91px;
+    text-decoration: none;
+}
+.nike a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.adidas a{
+    color:rgb(0, 0, 0);
+    width:137px;
+    text-decoration: none;
+}
+.adidas a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.puma a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    width:105px;
+}
+.puma a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.newbalance a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+width:264px;
+}
+.newbalance a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+.reebok a{
+width:147px;
+color:rgb(0, 0, 0);
+text-decoration: none;
+}
+.reebok a:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(145, 151, 151);
+}
+#l{
+   font-size:35px;
+   font-weight: bold;
+   color:#444444;
+   line-height: 51px;
+   letter-spacing: 50;
+   font-weight: bold;
+}
+.box1{
+
+    width:100%;
+    height:630px;
+    background-color: #3A2A2D;
+    margin:185px 0 0 0;
+}
+.box1 >p{
+    width:404px;
+    height:123px;
+    padding:103px 0px 0px 168px;
+    margin-bottom:0px;
+    font-size: 50px;
+    font-family:Sitka Small;
+    font-weight: bold;
+    color:white;
+    line-height: 73px;
+}
+.square1{
+    margin:0px 0 0 237px;
+    width:267px;
+    height:76px;
+    border:1px;
+    border-color: #707070;
+    background-color: white;
+}
+.square1 >p{
+    width:162px;
+    height:37px;
+    margin:0px;
+    padding:20px 69px 19px 75px;
+   
+    font-family:Microsoft JhengHei;
+    font-weight: bold;
+    letter-spacing: px;
+    line-height:41px ;
+    font-size:28px;
+    
+   
+}
+.square2{
+    margin:21px 0 0 237px;
+    width:267px;
+    height:76px;
+    border:1px;
+    border-color: #707070;
+    background-color: white;
+    
+}
+.square2 >p{
+    width:300px;
+    height:28px;
+    margin:0px;
+    padding:20px 50px 19px 25px;
+   
+    font-family:Sitka Subheading;
+    font-weight: bold;
+    letter-spacing: 5px;
+    line-height:41px ;
+    font-size:28px;
+}
+.boxpic{
+    position: fixed ;
+}
+.box1z1{
+    width:50%;
+    height:100%;
+    
+    margin:0 auto;
+    margin-top:-19%;
+    margin-left:668px;
+    z-index:1;
+}
+.box1z2{
+    width: 600px;
+    height:450px;
+    margin:0 auto;
+    margin-top:-80px;
+    margin-left:188px;
+    z-index:2;
+}
+.nikelogo{
+    width:334px;
+    height:179px;
+    margin-top:-5%;
+    margin-left:78%;
+}
+.box2 img{
+
+    width:250px;
+    height:250px;
+   
+   
+   
+}
+.nike1{
+    margin:26% 0 0 185px;
+}
+.information{
+    font-size:20px;
+    font-family:Segoe UI;
+    line-height: 15px;
+    
+}
+#infnike1{
+    width:240px;
+    height:81px;
+  margin-left:73%;
+
+   
+}
+#infnike2{
+    width:240px;
+    height:81px;
+   margin-top:-6.5%;
+  margin-left:55%;
+
+   
+}
+#infnike3{
+    width:200px;
+    height:81px;
+   margin-top:-6.5%;
+  margin-left:37%;
+}
+#infnike4{
+    width:200px;
+    height:81px;
+   margin-top:-6.5%;
+  margin-left:15.5%;
+}
+.nike2{
+   
+    padding-left:50px;
+}
+.nike3{
+    padding-left:50px;
+}
+.nike4{
+    padding-left:50px;
+}
+.Horizontal-line{
+    width:279px;
+    height:1px;
+  
+    background-color: #707070;
+}
+#hline1{
+    margin-top:52.5px;
+    margin-left:1085px;
+}
+#hline2{
+    margin-top:-17px;
+    margin-left:780px;
+}
+#hline3{
+    margin-top:-17px;
+    margin-left:475px;
+}
+#hline4{
+    margin-top:-17px;
+    margin-left:169px;
+}
+.box3{
+    margin-top:128.5px;
+}
+.box3pic{
+WIDTH:100%;
+height:630px;
+
+}
+.box3 >p{
+    margin:0 auto;
+    width:100%;
+    height:40px;
+    background-color: #712105;
+}
+#box3colorarea{
+    margin-top:-4px;
+}
+.adidaspic img{
+   padding-bottom: 0;
+    width:250px;
+    height:250px;
+
+}
+.adidas1{
+    margin:109px 0 0 185px;
+}
+.adidas2{
+    padding-left:50px;
+}
+.adidas3{
+    padding-left:50px;
+}
+.adidas4{
+    padding-left:50px;
+}
+#aline1{
+    margin-top:52.5px;
+    margin-left:1085px;
+    
+}
+#aline2{
+    margin-top:-22px;
+    margin-left:780px;
+    
+}
+#aline3{
+    margin-top:-22px;
+    margin-left:475px;
+    
+}
+#aline4{
+    margin-top:-22px;
+    margin-left:169px;
+   
+}
+#infadidas1{
+    width:240px;
+    height:81px;
+   
+  margin-left:75%;
+font-weight: unset;
+   
+}
+#infadidas2{
+    width:206px;
+    height:81px;
+   margin-top:-6.2%;
+  margin-left:55%;
+  font-weight: unset;
+   
+   
+}
+#infadidas3{
+    width:200px;
+    height:81px;
+   margin-top:-6.2%;
+  margin-left:38%;
+  font-weight: unset;
+   
+}
+#infadidas4{
+    width:220px;
+    height:81px;
+   margin-top:-6.2%;
+  margin-left:13%;
+  font-weight: unset;
+   
+}
+.box4pic{
+    width: 100%;
+    height:615.98px;
+    margin:0 auto; 
+    margin-top:128.5px;
+}
+.pumaslogan{
+    width:400px;
+    height:123px;
+    font-size:50px;
+    font-family:Sitka Text;
+    font-weight: bold;
+    color:white;
+    margin:-32% 0 464px 10%;
+}
+.pumaslogan1{
+    width:350px;
+    height:30px;
+    font-size:30px;
+    font-family:Sitka Text;
+    color:white;
+    margin:-30% 0 464px 10%;
+}
+.pumalogo{
+    width:345px;
+    height:277px;
+    margin-left:77%;
+}
+.puma1{
+    width:250px;
+    height:250px;
+    margin:-50px 0 100px 185px;
+    
+}
+.puma2{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+    margin:-50px 0 100px 0;
+}
+.puma3{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+    margin:-50px 0 100px 0;
+}
+.puma4{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+    margin:-50px 0 100px 0;
+}
+#pline1{
+    
+    margin-top:40.5px;
+    margin-left:1085px;
+    
+}
+#pline2{
+    margin-top:-17px;
+    margin-left:780px;
+    
+}
+#pline3{
+    margin-top:-17px;
+    margin-left:475px;
+    
+}
+#pline4{
+    margin-top:-17px;
+    margin-left:169px;
+   
+}
+#infpuma{
+    width:200px;
+    height:81px;
+   margin-top:-6.7%;
+  margin-left:37%;
+}
+#infpuma4{
+    width:300px;
+    height:81px;
+   margin-top:-6.7%;
+  margin-left:11%;
+}
+
+#box5pic1{
+    margin-top:153.5px;
+    width:24.6%;
+    height:689.5px;
+    margin-bottom:0px;
+}
+#box5pic2{
+    margin-top:153.5px;
+   margin-left:-4px;
+    width:53.8%;
+    height:689.5px;
+    margin-bottom:0px;
+}
+#box5pic3{
+    margin-top:153.5px;
+    width:21.6%;
+    height:689.5px;
+    margin-left:-4px;
+    margin-bottom:0px;
+}
+#box5logo{
+    width:248px;
+    height:122px;
+    margin:-590px 0 0 62%;
+    display:flex;
+   
+    
+    
+}
+.slogan{
+    font-size:50px;
+    font-family:Sitka Heading;
+    letter-spacing:10px;
+    color:white;
+    line-height:73px;
+    font-weight: bold;
+    margin:180px 0 0 478px;
+}
+.new1{
+    width:250px;
+    height:250px;
+    margin-top:20%;
+    margin-left:185px;
+    
+}
+.new2{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+   
+}
+.new3{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+    
+}
+.new4{
+    width:250px;
+    height:250px;
+    padding-left:50px;
+    
+}
+#infnew1{
+    width:240px;
+    height:81px;
+  margin-left:73%;
+
+   
+}
+#infnew2{
+    width:240px;
+    height:81px;
+   margin-top:-6.6%;
+  margin-left:55%;
+
+   
+}
+#infnew3{
+    width:200px;
+    height:81px;
+   margin-top:-6.7%;
+  margin-left:37%;
+}
+#infnew4{
+    width:200px;
+    height:81px;
+   margin-top:-6.7%;
+  margin-left:10.65%;
+}
+.box6{
+    display:relative;
+}
+.box6picback{
+    width:100%;
+    height:874.5px;
+    margin-top:65px;
+    z-index:1;
+}
+.box6picfront{
+ width:1108px;
+ height:761px;
+ margin:-95% 0 72.5px 2.54%;
+
+}
+.reebokslogan{
+    width:375px;
+    height:80px;
+    font-size:40px;
+    font-family:Sitka Heading;
+    font-weight: bold;
+    transform: rotate(30deg);
+    margin:-45% 0% 0 75%;
+    padding:0;
+    color:white;
+}
+.reeboklogo{
+    width:315px;
+    height:160px;
+    margin:3.5% 0 0 78%;
+    
+}
+.reebok1{
+    
+    margin-left:185px;
+}
+.reebok2{
+    padding-left:50px;
+}
+.reebok3{
+    padding-left:50px;
+}
+.reebok4{
+    padding-left:50px;
+}#rline1{
+    
+    margin-top:40.5px;
+    margin-left:1085px;
+    
+}
+#rline2{
+    margin-top:-17px;
+    margin-left:780px;
+    
+}
+#rline3{
+    margin-top:-17px;
+    margin-left:475px;
+    
+}
+#rline4{
+    margin-top:-17px;
+    margin-left:170px;
+   
+}
+#infreebok1{
+    width:310px;
+    height:81px;
+  margin-left:73%;
+  
+
+   
+}
+#infreebok2{
+    width:180px;
+    height:81px;
+   margin-top:-6.69%;
+  margin-left:14.5%;
+
+   
+}
+#infreebok3{
+    width:200px;
+    height:81px;
+   margin-top:-6.6%;
+  margin-left:56.5%;
+}
+#infreebok4{
+    width:200px;
+    height:81px;
+   margin-top:-6.6%;
+  margin-left:35.65%;
+}
+footer{
+    height:621.04px;
+    width: 100%;
+}
+.footerbox1{
+    width:100%;
+    height:114.04px;
+    background-color: black;
+    margin-top:103px;
+    display: flex;
+}
+.footerlogo{
+    width:137px;
+    height:70px;
+   margin:22px 0 0 20px;
+}
+.footerenvelope{
+    width:35px;
+    height:35px;
+    margin:40px 12px 0 61%;
+    
+}
+.sub{
+    
+    width:92px;
+    height:21px;
+    font-size:23px;
+    font-family:Microsoft JhengHei;
+    margin-top:40px;
+    margin-left:12px;
+    color:white;
+}
+.textbox{
+    margin:40px 0% 0 21px;
+    padding:0;
+    width:247px;
+    height:31px;
+}
+.footerbox2{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+}
+.contacticon{
+    width:37px;
+    height:42.29px;
+    margin:54px 0 0 100px;
+}
+.contact{
+    width:80px;
+    height:27px;
+    font-size: 20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:60px 0 0 10px;
+}
+.helpicon{
+    width:37px;
+    height:37px;
+    margin:60px 0 0 446px;
+}
+.help{
+    width:80px;
+    height:27px;
+    font-size: 20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:60px 0 0 10px;
+}
+.abouticon{
+    width:62px;
+    height:28.75px;
+    margin:60px 0 0 400px;
+}
+.about{
+    width:80px;
+    height:27px;
+    font-size: 20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:60px 0 0 10px;
+}
+.footerbox3{
+
+    width:100%;
+}
+.seperationline{
+    width:100%;
+    height:1px;
+    background-color: #D8D7D7;
+    margin-top:12.2px;
+}
+.contactcontent{
+    font-size:20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:13.5px 0 0 147px
+}
+.helpcontent{
+    font-size:20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:-129.5px 0 0 721px;
+}
+.aboutcontent{
+    font-size:20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:-133.5px 0 0 1272px;
+}
+.locationicon{
+    width:32px;
+    height:44px;
+    margin:33px 0 0 100px;
+}
+.location{
+    font-size: 20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:-40px 0 0 146px;
+}
+.locationcontent{
+    font-size:20px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin:16px 0 0 146px;
+}
+.locationcontent1{
+    font-size:15px;
+    font-family:Microsoft JhengHei;
+    color:#6A5D5D;
+    margin-left:146px;
+}
+.fbicon{
+    margin:0% 0 0 84%;
+}
+.igicon{
+    margin-left:30px;
+}
+.yticon{
+    margin-left:30px;
+}
